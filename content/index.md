@@ -16,3 +16,8 @@ I grew up in Tbilisi, Georgia, and now find myself all over the world. In my fre
 > - Developing a Tron City [3D space](Blender%20and%203D.md) on the web.
 > - Polishing a couple of my existing [projects](Projects.md) which you can find in this profile.
 > - Keeping up my GPA as much as it's worth.
+
+## Last Semester
+- I was abroad in Budapest studying at [AIT](https://www.ait-budapest.com/).
+- Visited a [dozen countries](Travel.md) in Europe!
+- Lost my right airpod 🫤.

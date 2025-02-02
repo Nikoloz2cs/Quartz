@@ -6,7 +6,7 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.DesktopOnly(Component.TableOfContents()),
+    // Component.DesktopOnly(Component.TableOfContents()),
   ],
   footer: Component.Footer({
     links: {
